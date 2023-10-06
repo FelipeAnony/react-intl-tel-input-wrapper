@@ -1,5 +1,9 @@
 # Changelog
 
+## [v1.0.0]()
+
+-----------------------Base project by patw0929 changelog-----------------------
+
 ## [v7.1.0](https://github.com/patw0929/react-intl-tel-input/releases/tag/v7.1.0)
 
 ### New features
@@ -120,7 +124,6 @@
 
 - [#220](https://github.com/patw0929/react-intl-tel-input/pull/220): Upgrade Libphonenumber to v8.9.9 (by [@superhit0](https://github.com/superhit0))
 
-
 ## [v5.0.6](https://github.com/patw0929/react-intl-tel-input/releases/tag/v5.0.6)
 
 ### Bug fixes
@@ -128,13 +131,11 @@
 - [#217](https://github.com/patw0929/react-intl-tel-input/pull/217): Add findIndex implementation for IE 11 (by [@ostap0207](https://github.com/ostap0207))
 - [#219](https://github.com/patw0929/react-intl-tel-input/pull/219): Fixed [#218](https://github.com/patw0929/react-intl-tel-input/issues/218): Fix expanded class not being removed from wrapper (by [@MilosMosovsky](https://github.com/MilosMosovsky))
 
-
 ## [v5.0.5](https://github.com/patw0929/react-intl-tel-input/releases/tag/v5.0.5)
 
 ### Bug fixes
 
 - Fixed [#208](https://github.com/patw0929/react-intl-tel-input/issues/208): issue of dial code shows twice in input ([#209](https://github.com/patw0929/react-intl-tel-input/pull/209) & [#210](https://github.com/patw0929/react-intl-tel-input/pull/210))
-
 
 ## [v5.0.4](https://github.com/patw0929/react-intl-tel-input/releases/tag/v5.0.4)
 
@@ -142,13 +143,11 @@
 
 - [#207](https://github.com/patw0929/react-intl-tel-input/pull/207): Move Prop-types out of peer dependency. remove proptypes in dist ([57a6956](https://github.com/patw0929/react-intl-tel-input/commit/57a695617582a7662e1af4a66d326a9ff7d61ba7) by [@dphrag](https://github.com/dphrag))
 
-
 ## [v5.0.3](https://github.com/patw0929/react-intl-tel-input/releases/tag/v5.0.3)
 
 ### Bug fixes
 
 - [#204](https://github.com/patw0929/react-intl-tel-input/pull/204): Handle placeholder and customPlaceholder change (by [@adrienharnay](https://github.com/adrienharnay))
-
 
 ## [v5.0.2](https://github.com/patw0929/react-intl-tel-input/releases/tag/v5.0.2)
 
@@ -163,13 +162,11 @@
 
 - [#199](https://github.com/patw0929/react-intl-tel-input/pull/199): reconfigure packages to bring back compatibility to both react 15 & 16 ([ea2d593](https://github.com/patw0929/react-intl-tel-input/commit/ea2d593df075d59446d58f11df2d191afb813c6b) by [@ignatiusreza](https://github.com/ignatiusreza))
 
-
 ## [v5.0.0](https://github.com/patw0929/react-intl-tel-input/releases/tag/v5.0.0)
 
 ### Breaking change
 
 - [#196](https://github.com/patw0929/react-intl-tel-input/pull/196) Upgrade to React 16 (by [@puffo](https://github.com/puffo) & [@ignatiusreza](https://github.com/ignatiusreza))
-
 
 ## [v4.3.4](https://github.com/patw0929/react-intl-tel-input/releases/tag/v4.3.4)
 
@@ -177,13 +174,11 @@
 
 - [#198](https://github.com/patw0929/react-intl-tel-input/pull/198) Allow country code to be deleted (Fixed [#197](https://github.com/patw0929/react-intl-tel-input/issues/197)) ([c731a6b](https://github.com/patw0929/react-intl-tel-input/commit/c731a6b913b5d8852d886c4b0e35ae7cbc7c37b7) by [@MatthewAnstey](https://github.com/MatthewAnstey))
 
-
 ## [v4.3.3](https://github.com/patw0929/react-intl-tel-input/releases/tag/v4.3.3)
 
 ### Bug fixes
 
 - [#195](https://github.com/patw0929/react-intl-tel-input/pull/195): Add flag update when phones changes through props ([9d58356](https://github.com/patw0929/react-intl-tel-input/commit/9d583560a80c0ff30ff5bf390d6ebcb31cea1130) by [@MatthewAnstey](https://github.com/MatthewAnstey))
-
 
 ## [v4.3.2](https://github.com/patw0929/react-intl-tel-input/releases/tag/v4.3.2)
 
@@ -191,13 +186,11 @@
 
 - [#192](https://github.com/patw0929/react-intl-tel-input/pull/192): highlight country from preferred list ([b37cc3d](https://github.com/patw0929/react-intl-tel-input/commit/b37cc3d6c1f7d9f2b94dc912b4698b0143c5d4ee), [7f2b90e](https://github.com/patw0929/react-intl-tel-input/commit/7f2b90ecd74768e0a729327bd4af7e8ee4deeba3), [5bdbb79](https://github.com/patw0929/react-intl-tel-input/commit/5bdbb798bfec46c0df2237c2c52ceb72ef8b8ec0) by [@denis-k](https://github.com/denis-k))
 
-
 ## [v4.3.1](https://github.com/patw0929/react-intl-tel-input/releases/tag/v4.3.1)
 
 ### Bug fixes
 
 - Changed line that sets countryCode. Now, when CC is invalid, it is set to null and therefor not changed ([34b5517](https://github.com/patw0929/react-intl-tel-input/commit/34b551772d3a21d823e42864f99d5f925ff9273a) by [@darkenvy](https://github.com/darkenvy))
-
 
 ## [v4.0.1](https://github.com/patw0929/react-intl-tel-input/releases/tag/v4.0.1)
 
@@ -205,13 +198,11 @@
 
 - Make isMobile isomorphic-friendly ([690f25b](https://github.com/patw0929/react-intl-tel-input/commit/690f25b954fde8e810d029e70515229849722ff2) by [@mariusandra](https://github.com/mariusandra))
 
-
 ## [v3.7.0](https://github.com/patw0929/react-intl-tel-input/releases/tag/v3.7.0)
 
 ### New features
 
 - [#162](https://github.com/patw0929/react-intl-tel-input/pull/162): Pass arbitrary props to the tel input element (Also fixed [#158](https://github.com/patw0929/react-intl-tel-input/issues/158)) ([5e2d4f9](https://github.com/patw0929/react-intl-tel-input/commit/5e2d4f999942b6cb33beb518ff317de76d6fafac) by [@Arkq](https://github.com/Arkq))
-
 
 ## [v3.2.0](https://github.com/patw0929/react-intl-tel-input/releases/tag/v3.2.0)
 
@@ -223,4 +214,3 @@
 ### Bug fixes
 
 - [#142](https://github.com/patw0929/react-intl-tel-input/pull/142): implement state.value change in componentWillReceiveProps ([09eae7e](https://github.com/patw0929/react-intl-tel-input/commit/09eae7ec7132ab70fb34ffc1a2ff26becfe6424a) by [@pwlmaciejewski](https://github.com/pwlmaciejewski))
-
