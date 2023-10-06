@@ -1,6 +1,10 @@
 # Changelog
 
-## [v1.0.0]()
+## [v1.0.0]
+
+### Bug fixes
+
+- Adds React >=15.4 support
 
 -----------------------Base project by patw0929 changelog-----------------------
 
