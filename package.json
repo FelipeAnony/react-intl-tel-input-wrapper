@@ -1,6 +1,6 @@
 {
   "name": "react-intl-tel-input-wrapper",
-  "version": "1.1.0",
+  "version": "1.0.2",
   "description": "Telephone input component. Rewrite Marc Cataford react-intl-tel-input package for React 18",
   "author": "patw",
   "workspaces": [
@@ -28,10 +28,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/patw0929/react-intl-tel-input"
+    "url": "https://github.com/FelipeAnony/react-intl-tel-input-wrapper"
   },
   "bugs": {
-    "url": "https://github.com/patw0929/react-intl-tel-input/issues"
+    "url": "https://github.com/FelipeAnony/react-intl-tel-input-wrapper"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
